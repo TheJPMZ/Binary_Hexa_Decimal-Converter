@@ -16,7 +16,7 @@ dec_hex(727)
 ```
 ![imagen](https://user-images.githubusercontent.com/64183934/132123647-4ee347ef-ce9e-4b31-80c2-63d776e21f23.png)
 
-##Hexadecimal to Binary (str)
+## Hexadecimal to Binary (str)
 ```python
 hex_bin('2D7') 
 ```
