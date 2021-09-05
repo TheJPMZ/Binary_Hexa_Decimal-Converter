@@ -4,8 +4,8 @@
 A group of python functions that change from one numbering system to another, and shows the needed steps to arithmetically do so.
 
 This program can change between:
->Decimal (Integers)\n
->Binary\n
+>Decimal (Integers)
+>Binary
 >Hexadecimal
 
 Guide for each function:
