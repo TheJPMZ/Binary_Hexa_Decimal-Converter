@@ -4,9 +4,9 @@
 A group of python functions that change from one numbering system to another, and shows the needed steps to arithmetically do so.
 
 This program can change between:
--Decimal (Integers)
--Binary
--Hexadecimal
+ - d
+ - d
+ - d
 
 Guide for each function:
 **Decimal to Hexadecimal (int)**
