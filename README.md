@@ -9,6 +9,7 @@ This program can change between:
  - Hexadecimal
 
 Guide for each function:
+
 **Decimal to Hexadecimal (int)**
 ```python
 dec_hex(727) 
