@@ -1,4 +1,4 @@
-# Labyrinth Maker 
+# Binary_Hexa_Decimal-Converter
 **TheJPMZ**
 
 A group of python functions that change from one numbering system to another, and shows the needed steps to arithmetically do so.
@@ -38,6 +38,7 @@ dec_bin(14)
 bin_hex('1101')
 ```
 **First to decimal, then to hexadecimal.* 
+
 ![imagen](https://user-images.githubusercontent.com/64183934/132123677-9d0059a7-54ce-460a-83d0-da5df029ad26.png)
 
 **Hexadecimal to Decimal (str)****
@@ -45,6 +46,7 @@ bin_hex('1101')
 hex_dec('2D7')
 ```
 ***First to binary, then to decimal.*
+
 ![imagen](https://user-images.githubusercontent.com/64183934/132123681-123477cc-ffb6-43e2-9afb-0c8573d09c51.png)
 
 
