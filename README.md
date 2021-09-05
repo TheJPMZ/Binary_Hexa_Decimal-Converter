@@ -5,7 +5,9 @@ A group of python functions that change from one numbering system to another, an
 
 This program can change between:
 >Decimal (Integers)
+
 >Binary
+
 >Hexadecimal
 
 Guide for each function:
